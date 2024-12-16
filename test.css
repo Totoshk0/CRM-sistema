@@ -1,0 +1,19 @@
+#button6 {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+}
+
+#button6:hover {
+    background-color: #555;
+}
+
+#dots6 {
+    display: none;
+}
